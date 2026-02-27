@@ -4,7 +4,7 @@
 
 My name is Nicolas Pena. I am studying Computer Science and Information Security. My goal is to break into the cyber security industry by landing a SOC Analyst Role. I plan on doing this by completeing industry standard level projects and gaining key certifications.
 
-### Security Foundations: Governance & Frameworks
+### Security Philosophy
 Kobalt.io. (2024). Blogpost
 https://kobalt.io/confidentiality-integrity-and-availability-in-cyber-security/ 
 **CIA TRIAD:**
@@ -37,3 +37,8 @@ Availability connects to how a VM isn't stuck to one physical box. If the hardwa
 Reflection
 
 Isolation is critical when testing software or malware because it prevents malicious code from "escaping" and infecting your actual computer or the rest of your network. By using virtualized environments, you can run dangerous files in a contained space where any damage is limited to just that one instance. Virtualization supports secure experimentation by letting you create "disposable" systems that can be instantly reset using snapshots, which encourages you to try things out without worrying about permanent consequences. This material on Packet Tracer and network simulation aligns most closely with the Network Security domain, as it focuses on how data moves between devices and how to configure secure pathways. This kind of hands on practice is exactly what is needed for someone working toward certifications like Network+ or Security+.
+
+##### References
+https://kobalt.io/confidentiality-integrity-and-availability-in-cyber-security/ 
+https://www.lenovo.com/us/en/glossary/aaa/?orgRef=https%253A%252F%252Fwww.google.com%252F
+
