@@ -19,5 +19,7 @@ The AAA framework in cybersecurity is Authentication, Authorization and Accounti
 **Authorization** is used to determine the level of access or permissions granted to an authenticated user for specific network resources
 **Accounting** is used to record and track user activity, this includes login and logout times, and etc
 
-Governance is as important as technical skills because at the end of the day this is 
+Governance is as important as technical skills because at the end of the day most cyber security roles falls under a business and knowing how to secure the business and translate technical terms that business partners. Also, creating things like playbooks, security protocols and things that requires pure knowledge almost always falls under a GRC role.
+
+In today's world i believe Cloud aligns the most in today material because now thats is where all the big companies store data and run services. Cloud is the next biggest innovation of modern cybersecurity, this is because of its cost cutting solutions and the amount of data that can be stored. It is also available to anyone authorized across the world
 
