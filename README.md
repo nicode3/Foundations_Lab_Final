@@ -23,3 +23,17 @@ Governance is as important as technical skills because at the end of the day mos
 
 In today's world i believe Cloud aligns the most in today material because now thats is where all the big companies store data and run services. Cloud is the next biggest innovation of modern cybersecurity, this is because of its cost cutting solutions and the amount of data that can be stored. It is also available to anyone authorized across the world
 
+#### Lab Infrastructure & Virtualization Setup
+Cisco Networking Academy. (2024). Introduction to Cybersecurity: Virtualization and the CIA Triad.
+A hypervisor is what is used to run a virtual machine on a computer
+A virtual machine is another operating system ran on top of the host computer.
+
+Isolation is important because virtual machine are often used as testing machines for computer attacks. This is why we need to contain VMs in order to prevent the threats from spreading to the host machine. 
+
+This can be connected to how confidentiality works. No prying eyes from the VM can try to take advantage of its vulnerability and attack the main system.
+Integrity can connect to how snapshots work in VMs. Snap shot are like a time machine in which you can revert back to any state the VM was in. Meaning that any modification that messes up the integrity of your VM can be fixed.
+Availability connects to how a VM isn't stuck to one physical box. If the hardware it's running on crashes or dies, you can just move that VM to another server and fire it back up immediately. This keeps the system "available" and running so there is almost no downtime.
+
+Reflection
+
+Isolation is critical when testing software or malware because it prevents malicious code from "escaping" and infecting your actual computer or the rest of your network. By using virtualized environments, you can run dangerous files in a contained space where any damage is limited to just that one instance. Virtualization supports secure experimentation by letting you create "disposable" systems that can be instantly reset using snapshots, which encourages you to try things out without worrying about permanent consequences. This material on Packet Tracer and network simulation aligns most closely with the Network Security domain, as it focuses on how data moves between devices and how to configure secure pathways. This kind of hands on practice is exactly what is needed for someone working toward certifications like Network+ or Security+.
